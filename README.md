@@ -36,13 +36,13 @@
 
 ### 🎓 Relevant Coursework:
 
-- [CSS - The Complete Guide](https://www.udemy.com/share/101rBy3@Pc_2rZB0acAvikOKJOofJ0zu0GaDJNUoSP2zvgxGRcYXG0Plgm4g0TZV2Iwyc57haw==/) by Maximilian Schwarzmuller
-- [JavaScript - The Complete Guide](https://www.udemy.com/share/102aa23@W8nqemr18V0ACTl_Fu3Y3JcuuNcjkK-r5JG001bG9-gu2bktutz2RCecbRhDxy9mig==/) by Maximilian Schwarzmuller
-- [React - The Complete Guide](https://www.udemy.com/share/101Way3@klfarCKY4sMTApkFb39z0BEI7SiCKbBsWs_L4m4s5xBlvmkp0r0YhjFdG-C0LaJYgw==/) by Maximilian Schwarzmuller
-- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/share/101XY23@upn9XFunWMRDwUfBuw9FAJbsI8BYKtARntFWBBrmnQh-OqAhQZXPf2OK54U8F4Nm6A==/) by Colt Steele
-- [The Git & Github Bootcamp](https://www.udemy.com/share/104d2a3@IHeLx3TuV0NMG_ZcHIk7TWSIH---cP_LK9IXvtYNtc01SK1KzSddHFyCza2uz3Vq-Q==/) by Colt Steele
-- [Clean Code](https://www.udemy.com/share/103MgS3@hw-eY1GcHRAG9K_OB8bH3Ecbp80iD2E1SU8OHyuwjVFG4BLiaN5ONcveDHWFoLX8nQ==/) by Maximilian Schwarzmuller
-- [50 Project In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/share/103Pv23@ZvfUWvwdYHOkuhEzjiJ5epXkRCOVDiFdQu-cv6xQKbuaDT77D73VJnjOWDc-sYBAVA==/) by Brad Traversy
+- [CSS - The Complete Guide](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmuller
+- [JavaScript - The Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) by Maximilian Schwarzmuller
+- [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmuller
+- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) by Colt Steele
+- [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) by Colt Steele
+- [Clean Code](https://www.udemy.com/course/writing-clean-code/) by Maximilian Schwarzmuller
+- [50 Project In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) by Brad Traversy
 
 ---
 
