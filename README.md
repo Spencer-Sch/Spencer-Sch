@@ -2,9 +2,9 @@
 
 ## I'm a self-taught developer, musician, & disc golf enthusiast
 
-- 🏆 Favorite Original Project: [Calculator App](https://github.com/Spencer-Sch/Calculator_2.0)
+- 🏆 Favorite Original Project: [Calculator 2.0 App](https://github.com/Spencer-Sch/Calculator_2.0)
 - 🔨 Current Project: a [craft-project tracking app](https://github.com/Spencer-Sch/ravelry-clone) for my wife
-- 🌱 Currently Learning: TypeScript
+- 🌱 Learning Queue: TypeScript, Practice Projects
 - 👯 Looking to collaborate with other content creators
 - 🥅 2022 Goals: Land my first dev job
 - ⚡ Fun fact: I am a professional [drum set performer][website], [educator][youtube], and [author](https://inthekeyofrhythm.com/product/making-a-drummer/)
