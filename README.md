@@ -7,7 +7,7 @@
 - 🌱 Learning Queue: TypeScript, Practice Projects
 - 👯 Looking to collaborate with other content creators
 - 🥅 2022 Goals: Land my first dev job
-- ⚡ Fun fact: I am a professional [drum set performer](https://www.youtube.com/watch?v=xqjwafelmgw), [educator](https://inthekeyofrhythm.com/lessons/), and [author](https://inthekeyofrhythm.com/product/making-a-drummer/)
+- ⚡ Fun fact: I am a professional [drum set performer](https://www.youtube.com/watch?v=xQjwAfeLmGw), [educator](https://inthekeyofrhythm.com/lessons/), and [author](https://inthekeyofrhythm.com/product/making-a-drummer/)
 
 ### Connect with me:
 
