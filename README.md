@@ -44,6 +44,7 @@
 - [The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) by Colt Steele
 - [Clean Code](https://www.udemy.com/course/writing-clean-code/) by Maximilian Schwarzmuller
 - [50 Project In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) by Brad Traversy
+- Selected to attend [AWS for Front-End Engineers](https://www.frontendmasters.com/) at FrontendMasters.com
 
 ---
 
