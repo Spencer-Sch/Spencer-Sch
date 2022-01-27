@@ -2,12 +2,12 @@
 
 ## I'm a self-taught developer, musician, & disc golf enthusiast
 
-- 🏆 Favorite Original Project: [Calculator 2.0 App](https://github.com/Spencer-Sch/Calculator_2.0)
-- 🔨 Current Project: a [craft-project tracking app](https://github.com/Spencer-Sch/ravelry-clone) for my wife
-- 🌱 Learning Queue: TypeScript, Practice Projects
+- 🏆 **Favorite Original Project:** [Calculator 2.0 App](https://github.com/Spencer-Sch/Calculator_2.0)
+- 🔨 **Next Project:** An original app idea - more info soon...
+- 🌱 **Learning Queue:** TypeScript
 - 👯 Looking to collaborate with other content creators
-- 🥅 2022 Goals: Land my first dev job
-- ⚡ Fun fact: I am a professional [drum set performer](https://www.youtube.com/watch?v=xQjwAfeLmGw), [educator](https://inthekeyofrhythm.com/lessons/), and [author](https://inthekeyofrhythm.com/product/making-a-drummer/)
+- 🥅 **2022 Goals:** Land my first dev job
+- ⚡ **Fun fact:** I am a professional [drum set performer](https://www.youtube.com/watch?v=xQjwAfeLmGw), [educator](https://inthekeyofrhythm.com/lessons/), and [author](https://inthekeyofrhythm.com/product/making-a-drummer/)
 
 ### Connect with me:
 
@@ -43,6 +43,7 @@
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) by Colt Steele
 - [The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) by Colt Steele
 - [Clean Code](https://www.udemy.com/course/writing-clean-code/) by Maximilian Schwarzmuller
+- [React Practice Course](https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/) by Coding Revolution
 - [50 Project In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) by Brad Traversy
 - [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) by Brad Traversy
 - Selected to attend [AWS for Front-End Engineers](https://www.frontendmasters.com/) at FrontendMasters.com
