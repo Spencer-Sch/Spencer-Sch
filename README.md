@@ -3,8 +3,8 @@
 ## I'm a self-taught developer, musician, & disc golf enthusiast
 
 - 🏆 **Favorite Original Project:** [Calculator 2.0 App](https://github.com/Spencer-Sch/Calculator_2.0)
-- 🔨 **Next Project:** An original app idea - more info soon...
-- 🌱 **Learning Queue:** TypeScript
+- 🔨 **Current Project:** [Found Wisdom App](https://github.com/Spencer-Sch/found-wisdom-app)
+- 🌱 **Learning Queue:** TypeScript Projects, React & JavaScript Testing, Node
 - 👯 Looking to collaborate with other content creators
 - 🥅 **2022 Goals:** Land my first dev job
 - ⚡ **Fun fact:** I am a professional [drum set performer](https://www.youtube.com/watch?v=xQjwAfeLmGw), [educator](https://inthekeyofrhythm.com/lessons/), and [author](https://inthekeyofrhythm.com/product/making-a-drummer/)
@@ -22,9 +22,11 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Jest" width="26px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="MUI" width="26px" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" />
+<img align="left" alt="MUI" width="26px" src="https://github.com/ionic-team/ionic-framework/raw/main/.github/assets/logo.png?raw=true" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -38,6 +40,7 @@
 
 - [CSS - The Complete Guide](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmuller
 - [JavaScript - The Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) by Maximilian Schwarzmuller
+- [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) by Maximilian Schwarzmuller
 - [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmuller
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) by Colt Steele
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) by Colt Steele
@@ -46,7 +49,6 @@
 - [React Practice Course](https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/) by Coding Revolution
 - [50 Project In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) by Brad Traversy
 - [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) by Brad Traversy
-- Selected to attend [AWS for Front-End Engineers](https://www.frontendmasters.com/) at FrontendMasters.com
 
 ---
 
