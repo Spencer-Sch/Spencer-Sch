@@ -2,7 +2,7 @@
 
 <h3 align="center" style="font-size: 1.5rem;">Self-Taught Developer, Musician, & Disc Golf Enthusiast </h3>
 
----
+</br>
 
 <p style="font-size: 1.3rem;">Software development has taken my lifelong compulsion for creativity and perfectly married it to my passion for deep comprehension, mastery of craft, and problem solving.</p>
 
