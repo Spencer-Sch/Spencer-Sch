@@ -43,19 +43,19 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 50%;">
-      <a href="https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/">JavaScript - The Complete Guide</a> by Maximilian Schwarzmuller </br>
-      <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide</a> by Maximilian Schwarzmuller </br>
-      <a href="https://www.udemy.com/course/understanding-typescript/">Understanding TypeScript</a> by Maximilian Schwarzmuller </br>
-      <a href="https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/">CSS - The Complete Guide</a> by Maximilian Schwarzmuller </br>
-      <a href="https://www.udemy.com/course/git-and-github-bootcamp/">The Git & Github Bootcamp</a> by Colt Steele </br>
-      <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">JavaScript Algorithms and Data Structures Masterclass</a> by Colt Steele
+      <a href="https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/">JavaScript - The Complete Guide</a> </br>
+      <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide</a> </br>
+      <a href="https://www.udemy.com/course/understanding-typescript/">Understanding TypeScript</a> </br>
+      <a href="https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/">CSS - The Complete Guide</a> </br>
+      <a href="https://www.udemy.com/course/git-and-github-bootcamp/">The Git & Github Bootcamp</a> </br>
+      <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">JavaScript Algorithms and Data Structures Masterclass</a>
     </td>
-    <td style="width: 50%; text-align: right;">
-      <a href="https://www.youtube.com/watch?v=ZtqBQ68cfJc">The 50 Most Popular Linux & Terminal Commands</a> by Colt Steele </br>
-      <a href="https://www.udemy.com/course/50-projects-50-days/">50 Project In 50 Days - HTML, CSS & JavaScript</a> by Brad Traversy </br>
-      <a href="https://www.udemy.com/course/web-projects-with-vanilla-javascript/">20 Web Projects With Vanilla JavaScript</a> by Brad Traversy </br>
-      <a href="https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/">React Practice Course</a> by Coding Revolution </br>
-      <a href="https://www.udemy.com/course/writing-clean-code/">Clean Code</a> by Maximilian Schwarzmuller
+    <td align="right" style="width: 50%; text-align: right;">
+      <a align="right" href="https://www.youtube.com/watch?v=ZtqBQ68cfJc">The 50 Most Popular Linux & Terminal Commands</a> </br>
+      <a href="https://www.udemy.com/course/50-projects-50-days/">50 Project In 50 Days - HTML, CSS & JavaScript</a> </br>
+      <a href="https://www.udemy.com/course/web-projects-with-vanilla-javascript/">20 Web Projects With Vanilla JavaScript</a> </br>
+      <a href="https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/">React Practice Course</a> </br>
+      <a href="https://www.udemy.com/course/writing-clean-code/">Clean Code</a>
     </td>
   </tr>
 </table>
