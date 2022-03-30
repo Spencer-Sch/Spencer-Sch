@@ -1,10 +1,10 @@
-<h1 style="text-align: center"> Hi, I'm Spencer </h1>
+<h1 align="center"> Hi, I'm Spencer </h1>
 
-<h2 style="text-align: center">Self-Taught Developer, Musician, & Disc Golf Enthusiast </h2>
+<h3 align="center" style="font-size: 1.5rem;">Self-Taught Developer, Musician, & Disc Golf Enthusiast </h3>
 
 ---
 
-<p style="font-size: 1.2rem;">Software development has taken my lifelong compulsion for creativity and perfectly married it to my passion for deep comprehension, mastery of craft, and problem solving.</p>
+<p style="font-size: 1.3rem;">Software development has taken my lifelong compulsion for creativity and perfectly married it to my passion for deep comprehension, mastery of craft, and problem solving.</p>
 
 ---
 
@@ -40,52 +40,24 @@
 
 ### 🎓 Relevant Coursework:
 
-<div style="display: flex; justfiy-content: space-between; width: 100%;">
-  <div style="width: 50%; margin-left: 1.5rem;">
-    <a href="https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/">JavaScript - The Complete Guide</a> by Maximilian Schwarzmuller
-  </div>
-  <div style="width: 50%; text-align: right;  margin-right: 1.5rem;">
-    <a href="https://www.youtube.com/watch?v=ZtqBQ68cfJc">The 50 Most Popular Linux & Terminal Commands</a> by Colt Steele
-    
-  </div>
-</div>
-<div style="display: flex; justfiy-content: space-between; width: 100%;">
-  <div style="width: 50%; margin-left: 1.5rem;">
-    <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide</a> by Maximilian Schwarzmuller
-  </div>
-  <div style="width: 50%; text-align: right;  margin-right: 1.5rem;">
-    <a href="https://www.udemy.com/course/50-projects-50-days/">50 Project In 50 Days - HTML, CSS & JavaScript</a> by Brad Traversy
-  </div>
-</div>
-<div style="display: flex; justfiy-content: space-between; width: 100%;">
-  <div style="width: 50%; margin-left: 1.5rem;">
-    <a href="https://www.udemy.com/course/understanding-typescript/">Understanding TypeScript</a> by Maximilian Schwarzmuller
-  </div>
-  <div style="width: 50%; text-align: right;  margin-right: 1.5rem;">
-    <a href="https://www.udemy.com/course/web-projects-with-vanilla-javascript/">20 Web Projects With Vanilla JavaScript</a> by Brad Traversy
-  </div>
-</div>
-<div style="display: flex; justfiy-content: space-between; width: 100%;">
-  <div style="width: 50%; margin-left: 1.5rem;">
-    <a href="https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/">CSS - The Complete Guide</a> by Maximilian Schwarzmuller
-  </div>
-  <div style="width: 50%; text-align: right;  margin-right: 1.5rem;">
-    <a href="https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/">React Practice Course</a> by Coding Revolution
-    
-  </div>
-</div>
-<div style="display: flex; justfiy-content: space-between; width: 100%;">
-  <div style="width: 50%; margin-left: 1.5rem;">
-    <a href="https://www.udemy.com/course/git-and-github-bootcamp/">The Git & Github Bootcamp</a> by Colt Steele
-  </div>
-  <div style="width: 50%; text-align: right;  margin-right: 1.5rem;">
-    <a href="https://www.udemy.com/course/writing-clean-code/">Clean Code</a> by Maximilian Schwarzmuller
-  </div>
-</div>
-<div style="display: flex; justfiy-content: space-between; width: 100%;">
-  <div style="width: 50%; margin-left: 1.5rem;">
-    <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">JavaScript Algorithms and Data Structures Masterclass</a> by Colt Steele
-  </div>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%;">
+      <a href="https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/">JavaScript - The Complete Guide</a> by Maximilian Schwarzmuller </br>
+      <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide</a> by Maximilian Schwarzmuller </br>
+      <a href="https://www.udemy.com/course/understanding-typescript/">Understanding TypeScript</a> by Maximilian Schwarzmuller </br>
+      <a href="https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/">CSS - The Complete Guide</a> by Maximilian Schwarzmuller </br>
+      <a href="https://www.udemy.com/course/git-and-github-bootcamp/">The Git & Github Bootcamp</a> by Colt Steele </br>
+      <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">JavaScript Algorithms and Data Structures Masterclass</a> by Colt Steele
+    </td>
+    <td style="width: 50%; text-align: right;">
+      <a href="https://www.youtube.com/watch?v=ZtqBQ68cfJc">The 50 Most Popular Linux & Terminal Commands</a> by Colt Steele </br>
+      <a href="https://www.udemy.com/course/50-projects-50-days/">50 Project In 50 Days - HTML, CSS & JavaScript</a> by Brad Traversy </br>
+      <a href="https://www.udemy.com/course/web-projects-with-vanilla-javascript/">20 Web Projects With Vanilla JavaScript</a> by Brad Traversy </br>
+      <a href="https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/">React Practice Course</a> by Coding Revolution </br>
+      <a href="https://www.udemy.com/course/writing-clean-code/">Clean Code</a> by Maximilian Schwarzmuller
+    </td>
+  </tr>
+</table>
 
 [linkedin]: https://www.linkedin.com/in/spencer-schoeneman-b621908b/
