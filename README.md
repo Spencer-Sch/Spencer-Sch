@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Spencer </h1>
 
-<h3 align="center" style="font-size: 1.5rem;">Self-Taught Developer, Musician, & Disc Golf Enthusiast </h3>
+<h3 align="center" style="font-size: 1.5rem;">Self-Taught Developer, Musician, & Disc Golf Enthusiast</h3>
 
 </br>
 
@@ -8,7 +8,33 @@
 
 ---
 
-🏆 **Favorite Original Project:** [Calculator 2.0 App](https://github.com/Spencer-Sch/Calculator_2.0) <br /><br />
+<h3 align="center" style="font-size: 1.8rem;">Portfolio</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h4 style="font-size: 1.5rem">Calculator</h4>
+      <a href="https://calc-app-2.herokuapp.com/" target="_blank">
+        <img src="assets/calc.jpg" style="border-radius: 5px;" height="220px" alt="calculator live demo">
+      </a>
+      <p style="font-size: 1.1rem">
+        <a href="https://github.com/Spencer-Sch/Calculator_2.0">Github Repo</a>
+      </p>
+    </td>
+    <td align="center">
+      <h4 style="font-size: 1.5rem">Budget Parse and Add</h4>
+      <a href="https://github.com/Spencer-Sch/budget-parse-and-add-app" target="_blank">
+        <img src="assets/budget.jpg" style="border-radius: 5px;" height="220px" alt="budget app live demo">
+      </a>
+      <p style="font-size: 1.1rem">
+        <a href="https://github.com/Spencer-Sch/budget-parse-and-add-app">Github Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 🔨 **Current Project:** [Found Wisdom App](https://github.com/Spencer-Sch/found-wisdom-app)<br /><br />
 🌱 **Learning Queue:** Jest.js, Node.js, Next.js, MySQL <br /><br />
 ⚡ **Fun fact:** I am a professional [drum set performer](https://www.youtube.com/watch?v=xQjwAfeLmGw), [educator](https://inthekeyofrhythm.com/lessons/), and [author](https://inthekeyofrhythm.com/product/making-a-drummer/) <br />
