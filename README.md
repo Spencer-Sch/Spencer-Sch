@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Spencer </h1>
 
-<h2 align="center" style="border: 0">Self-Taught Developer, Musician, & Disc Golf Enthusiast</h2>
+<h3 align="center" style="border: 0">Self-Taught Developer, Musician, & Disc Golf Enthusiast</h3>
 
 </br>
 
@@ -23,7 +23,7 @@
     </td>
     <td align="center">
       <h3>Budget Parse and Add</h3>
-      <a href="https://github.com/Spencer-Sch/budget-parse-and-add-app" target="_blank">
+      <a href="https://budget-sum-app.herokuapp.com/" target="_blank">
         <img src="assets/budget.jpg" width="375px" alt="budget app live demo">
       </a>
       <p style="font-size: 1.1rem">
@@ -66,24 +66,13 @@
 
 ### 🎓 Relevant Coursework:
 
-<table align="center">
-  <tr>
-    <td align="left">
-      <a href="https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/">JavaScript - The Complete Guide</a> </br>
-      <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide</a> </br>
-      <a href="https://www.udemy.com/course/understanding-typescript/">Understanding TypeScript</a> </br>
-      <a href="https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/">CSS - The Complete Guide</a> </br>
-      <a href="https://www.udemy.com/course/git-and-github-bootcamp/">The Git & Github Bootcamp</a> </br>
-      <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">JavaScript Algorithms and Data Structures Masterclass</a>
-    </td>
-    <td align="right">
-      <a href="https://www.youtube.com/watch?v=ZtqBQ68cfJc">The 50 Most Popular Linux & Terminal Commands</a> </br>
-      <a href="https://www.udemy.com/course/50-projects-50-days/">50 Project In 50 Days - HTML, CSS & JavaScript</a> </br>
-      <a href="https://www.udemy.com/course/web-projects-with-vanilla-javascript/">20 Web Projects With Vanilla JavaScript</a> </br>
-      <a href="https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/">React Practice Course</a> </br>
-      <a href="https://www.udemy.com/course/writing-clean-code/">Clean Code</a>
-    </td>
-  </tr>
-</table>
+- [JavaScript - The Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) by Maximilian Schwarzmuller
+- [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmuller
+- [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) by Maximilian Schwarzmuller
+- [CSS - The Complete Guide](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmuller
+- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) by Colt Steele
+- [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) by Colt Steele
+- [The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) by Colt Steele
+- [Clean Code](https://www.udemy.com/course/writing-clean-code/) by Maximilian Schwarzmuller
 
 [linkedin]: https://www.linkedin.com/in/spencer-schoeneman-b621908b/
