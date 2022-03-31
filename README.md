@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Spencer </h1>
 
-<h3 align="center" style="font-size: 1.5rem;">Self-Taught Developer, Musician, & Disc Golf Enthusiast</h3>
+<h2 align="center" style="border: 0">Self-Taught Developer, Musician, & Disc Golf Enthusiast</h2>
 
 </br>
 
@@ -8,23 +8,23 @@
 
 ---
 
-<h3 align="center" style="font-size: 1.8rem;">Portfolio</h3>
+<h2 align="center" style="border: 0">Portfolio</h2>
 
 <table align="center">
   <tr>
     <td align="center">
-      <h4 style="font-size: 1.5rem">Calculator</h4>
+      <h3>Calculator</h3>
       <a href="https://calc-app-2.herokuapp.com/" target="_blank">
-        <img src="assets/calc.jpg" style="border-radius: 5px;" height="220px" alt="calculator live demo">
+        <img src="assets/calc.jpg" width="375px" alt="calculator live demo">
       </a>
       <p style="font-size: 1.1rem">
         <a href="https://github.com/Spencer-Sch/Calculator_2.0">Github Repo</a>
       </p>
     </td>
     <td align="center">
-      <h4 style="font-size: 1.5rem">Budget Parse and Add</h4>
+      <h3>Budget Parse and Add</h3>
       <a href="https://github.com/Spencer-Sch/budget-parse-and-add-app" target="_blank">
-        <img src="assets/budget.jpg" style="border-radius: 5px;" height="220px" alt="budget app live demo">
+        <img src="assets/budget.jpg" width="375px" alt="budget app live demo">
       </a>
       <p style="font-size: 1.1rem">
         <a href="https://github.com/Spencer-Sch/budget-parse-and-add-app">Github Repo</a>
