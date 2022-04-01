@@ -1,10 +1,12 @@
-<h1 align="center"> Hi, I'm Spencer </h1>
+<img align="center" width="100%" src="assets/header.png"></img>
 
-<h3 align="center" style="border: 0">Self-Taught Developer, Musician, & Disc Golf Enthusiast</h3>
+<!-- <h1 align="center"> Hi, I'm Spencer </h1> -->
 
-</br>
+<!-- <h3 align="center" style="border: 0">Self-Taught Developer, Musician, & Disc Golf Enthusiast</h3> -->
 
-<p style="font-size: 1.3rem;">Software development has taken my lifelong compulsion for creativity and perfectly married it to my passion for deep comprehension, mastery of craft, and problem solving.</p>
+<!-- </br> -->
+
+<h3 align="center">Software development has taken my lifelong compulsion for creativity and perfectly married it to </br> my passion for deep comprehension, mastery of craft, and problem solving.</h3>
 
 ---
 
@@ -34,6 +36,28 @@
 </table>
 
 ---
+
+<h2 align="center" style="border: 0">About Me</h2>
+
+<h3>Hi, I'm Spencer: Self-Taught Developer, Musician, & Disc Golf Enthusiast.</h3>
+<p>Coding has surfaced as an interest many times throughout my life. My choice of careers after high-school was between programming and music. I chose music, did well in school, and was successful in the field over the next six years. I was forced to make some difficult decisions when COVID struck and the music industry disappeared for two years. My alternative career path was simple: coding.</p>
+<p>Being highly motivated and a strong self-starter, the self-taught route was the natural choice for my web-development education.</p>
+<p>I am looking to work on a team with passionate, highly skilled colleagues along side whom I can deepen my understanding and increase my mastery of all things development related.</p>
+
+<h3>From Rhythmic Engineer to Front-End Engineer</h3>
+<p>As a musician, and drummer specifically, I have always identified more with the technical and structural aspects of the art-form as apposed to the aspects of self-expression and artistry.</p>
+<p>This focus on the structure, architecture, and purpose of the music has perfectly positioned me for a transition into a highly technical field and enables me to bring along a large set of skills that seamlessly apply to both music performance and software development.</p>
+
+<h3>Soft Skills</h3>
+<ul>
+  <li>The ability to both collaborate with others and self-direct when working solo</li>
+  <li>Ceaseless learning and practice</li>
+  <li>Balancing between creativity and technicality</li>
+  <li>Learning the rules of a language and learning when and how to bend them</li>
+  <li>Strong communication</li>
+  <li>The breaking down of large projects into small tasks</li>
+  <li>Dedication to a craft</li>
+</ul>
 
 🔨 **Current Project:** [Found Wisdom App](https://github.com/Spencer-Sch/found-wisdom-app)<br /><br />
 🌱 **Learning Queue:** Jest.js, Node.js, Next.js, MySQL <br /><br />
