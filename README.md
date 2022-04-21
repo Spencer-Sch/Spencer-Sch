@@ -76,12 +76,6 @@
   <li>Very accustomed to breaking large projects into small tasks</li>
 </ul>
 
-<!-- 🔨 **Current Project:** [Found Wisdom App](https://github.com/Spencer-Sch/found-wisdom-app)<br /><br /> -->
-<!-- 🌱 **Learning Queue:** Jest.js, Node.js, Next.js, MySQL <br /><br /> -->
-<!-- ⚡ Check out my work as a drum-set [performer](https://www.youtube.com/watch?v=xQjwAfeLmGw), [educator](https://inthekeyofrhythm.com/lessons/), and [author](https://inthekeyofrhythm.com/product/making-a-drummer/) <br /> -->
-
-<!-- ⚡ **Fun fact:** I am a professional [drum set performer](https://www.youtube.com/watch?v=xQjwAfeLmGw), [educator](https://inthekeyofrhythm.com/lessons/), and [author](https://inthekeyofrhythm.com/product/making-a-drummer/) <br /> -->
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://algomine.pl/wp-content/uploads/LinkedIn-Icon-380x380.png" />][linkedin]
@@ -97,8 +91,9 @@
 <img align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="MUI" width="35px" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" />
-<img align="left" alt="MUI" width="35px" src="https://github.com/ionic-team/ionic-framework/raw/main/.github/assets/logo.png?raw=true" />
+<img align="left" alt="Ionic" width="35px" src="https://github.com/ionic-team/ionic-framework/raw/main/.github/assets/logo.png?raw=true" />
 <img align="left" alt="Jest" width="35px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" />
+<img align="left" alt="Testing Library" width="35px" src="https://testing-library.com/img/octopus-128x128.png" />
 <img align="left" alt="Git" width="35px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />
 <img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/apple-touch-icon-180x180.png" />
 
@@ -106,7 +101,7 @@
 <br />
 <br />
 
-🌱 **Learning Queue:** Jest.js, Node.js, Next.js, MySQL <br /><br />
+🌱 **Learning Queue:** Node.js, Next.js, MySQL <br /><br />
 
 ---
 
@@ -117,8 +112,8 @@
 - [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) by Maximilian Schwarzmuller
 - [CSS - The Complete Guide](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmuller
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) by Colt Steele
+- [Testing React with Jest and Testing Library](https://www.udemy.com/course/react-testing-library/) by Bonnie Schulkin
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) by Colt Steele
-- [The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) by Colt Steele
 - [Clean Code](https://www.udemy.com/course/writing-clean-code/) by Maximilian Schwarzmuller
 
 [linkedin]: https://www.linkedin.com/in/spencer-schoeneman-b621908b/
