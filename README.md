@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="assets/header.png"></img>
+<img align="center" width="100%" src="assets/header_new.png"></img>
 
 <h1 align="center"> Hi, I'm Spencer </h1>
 
