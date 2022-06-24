@@ -125,4 +125,4 @@
 - [Clean Code](https://www.udemy.com/course/writing-clean-code/) by Maximilian Schwarzmuller
 
 [linkedin]: https://www.linkedin.com/in/spencer-schoeneman-b621908b/
-[gmail]: spencer.schoeneman@gmail.com
+[gmail]: mailto:spencer.schoeneman@gmail.com
