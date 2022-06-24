@@ -78,7 +78,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://algomine.pl/wp-content/uploads/LinkedIn-Icon-380x380.png" />][linkedin]
+[<img align="left" alt="spencer-sch | LinkedIn" width="30px" src="https://algomine.pl/wp-content/uploads/LinkedIn-Icon-380x380.png" />][linkedin]
+[<img align="left" alt="spencer-sch | Gmail" width="39px" src="https://www.hostedincanada.com/wp-content/uploads/2019/04/143-1433268_gmail-icon-gmail-icon-png.png" />][gmail]
 
 <br />
 
@@ -92,22 +93,29 @@
 <img align="left" alt="React" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="MUI" width="35px" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" />
 <img align="left" alt="Ionic" width="35px" src="https://github.com/ionic-team/ionic-framework/raw/main/.github/assets/logo.png?raw=true" />
+<img align="left" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Jest" width="35px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" />
 <img align="left" alt="Testing Library" width="35px" src="https://testing-library.com/img/octopus-128x128.png" />
 <img align="left" alt="Git" width="35px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />
 <img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/apple-touch-icon-180x180.png" />
+<img align="left" alt="Node" width="35px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
+<img align="left" alt="Express" width="42px" src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" />
 
 <br />
 <br />
 <br />
 
-🌱 **Learning Queue:** Node.js, Next.js, MySQL <br /><br />
+### 🌱 Learning Queue: <br />
+
+- Next.js <br />
+- SQL <br />
 
 ---
 
 ### 🎓 Relevant Coursework:
 
 - [JavaScript - The Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) by Maximilian Schwarzmuller
+- [Node and Express](https://www.youtube.com/watch?v=TNV0_7QRDwY) by Coding Addict
 - [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmuller
 - [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) by Maximilian Schwarzmuller
 - [CSS - The Complete Guide](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmuller
@@ -117,3 +125,4 @@
 - [Clean Code](https://www.udemy.com/course/writing-clean-code/) by Maximilian Schwarzmuller
 
 [linkedin]: https://www.linkedin.com/in/spencer-schoeneman-b621908b/
+[gmail]: spencer.schoeneman@gmail.com
