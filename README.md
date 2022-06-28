@@ -84,31 +84,34 @@
 <br />
 
 ### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="MUI" width="35px" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" />
-<img align="left" alt="Ionic" width="35px" src="https://github.com/ionic-team/ionic-framework/raw/main/.github/assets/logo.png?raw=true" />
-<img align="left" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Jest" width="35px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" />
-<img align="left" alt="Testing Library" width="35px" src="https://testing-library.com/img/octopus-128x128.png" />
-<img align="left" alt="Git" width="35px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />
-<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/apple-touch-icon-180x180.png" />
-<img align="left" alt="Node" width="35px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-<img align="left" alt="Express" width="42px" src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" />
-
-<br />
-<br />
+<div style="display:flex;flex-wrap:wrap;">
+<img align="left" alt="Visual Studio Code" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="React" width="38px" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img style="margin-bottom:5px" align="left" alt="MUI" width="35px" height="35px" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" />
+<img align="left" alt="Ionic" width="35px" height="35px" src="https://github.com/ionic-team/ionic-framework/raw/main/.github/assets/logo.png?raw=true" />
+<img align="left" alt="Firebase" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img style="margin-bottom:5px" align="left" alt="Jest" width="31px" height="35px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" />
+<img style="margin-bottom:5px;" align="left" alt="Testing Library" width="35px" height="35px" src="https://testing-library.com/img/octopus-128x128.png" />
+<img style="margin-bottom:5px" align="left" alt="Git" width="35px" height="35px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />
+<img style="margin-bottom:5px" align="left" alt="GitHub" width="35px" height="35px" src="https://github.githubassets.com/apple-touch-icon-180x180.png" />
+<img style="margin-bottom:5px" align="left" alt="Node" width="35px" height="35px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
+<img style="margin-bottom:5px" align="left" alt="Express" width="41px" height="35px" src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" />
+</div>
 <br />
 
-### 🌱 Learning Queue: <br />
-
-- Next.js <br />
-- SQL <br />
+<div style="display:inline-block;">
+<h3>🌱 Learning Queue:</h3>
+<ul>
+<li>Next.js</li>
+<li>SQL</li>
+</ul>
+</div>
+<br />
+<br />
 
 ---
 
