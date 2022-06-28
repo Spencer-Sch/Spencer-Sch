@@ -84,10 +84,7 @@
 <br />
 
 ### Languages and Tools:
-<<<<<<< HEAD
 
-=======
->>>>>>> 4245a7f7c37e9b14df4e53c2cef9eb8c050e5a56
 <div style="display:flex;flex-wrap:wrap;">
 <img align="left" alt="Visual Studio Code" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -105,15 +102,6 @@
 <img style="margin-bottom:5px" align="left" alt="Node" width="35px" height="35px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 <img style="margin-bottom:5px" align="left" alt="Express" width="41px" height="35px" src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" />
 </div>
-<<<<<<< HEAD
-
-<div style="display:inline-block;">
-<h3>🌱 Learning Queue:</h3> <br />
-
-- Next.js <br />
-- SQL <br />
-</div>
-=======
 <br />
 
 <div style="display:inline-block;">
@@ -125,7 +113,6 @@
 </div>
 <br />
 <br />
->>>>>>> 4245a7f7c37e9b14df4e53c2cef9eb8c050e5a56
 
 ---
 
