@@ -55,7 +55,7 @@
 
 <p>Coding has surfaced as an interest many times throughout my life. My choice of careers after high-school was between programming and music. I chose music, did well in school, and was successful in the business. When COVID struck, the live music industry disappeared for two years and I was forced to make some difficult decisions. When I began considering a career change coding was the natural choice.</p>
 <p>Being highly motivated and a strong self-starter, the self-taught route was the natural choice for my development education.</p>
-<p>I am looking to work on a team with passionate, highly skilled colleagues along side whom I can deepen my understanding, and puruse a mastery of all things web-dev.</p>
+<p>I am looking to work on a team with passionate, highly skilled colleagues along side whom I can deepen my understanding, and pursue a mastery of all things web-dev.</p>
 
 🔨 **Current Project:** [Found Wisdom App](https://github.com/Spencer-Sch/found-wisdom-app)<br />
 
