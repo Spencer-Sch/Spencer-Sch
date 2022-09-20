@@ -4,9 +4,6 @@
 
 <h3 align="center" style="border: 0">Developer, Musician, & Disc Golf Enthusiast</h3>
 
-<h3 align="center">Software development has taken my lifelong compulsion for creativity and perfectly married it to </br> my passion for deep comprehension, mastery of craft, and problem solving.</h3>
-
-<!-- <h2 align="center" style="border: 0">About Me</h2> -->
 <br>
 
 I am a Front-end Engineer at [Candide](https://www.linkedin.com/company/candidenft/about/) currently building an NFT rental marketplace using Nuxt3.
