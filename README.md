@@ -46,6 +46,8 @@ I am a Front-end Engineer at [Candide](https://www.linkedin.com/company/candiden
 <img style="margin-bottom:5px" align="left" alt="Express" width="41px" height="35px" src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" />
 </div>
 <br />
+<br />
+<br />
 
 <h2 align="center" style="border: 0">Portfolio</h2>
 
