@@ -4,7 +4,7 @@
 
 <h3 align="center" style="border: 0">Developer, Musician, & Disc Golf Enthusiast</h3>
 
-<!-- --- -->
+<h3 align="center">Software development has taken my lifelong compulsion for creativity and perfectly married it to </br> my passion for deep comprehension, mastery of craft, and problem solving.</h3>
 
 <!-- <h2 align="center" style="border: 0">About Me</h2> -->
 <br>
@@ -64,7 +64,7 @@ I am a Front-end Engineer at [Candide](https://www.linkedin.com/company/candiden
       </p>
     </td>
     <td align="center">
-      <h3>Candide</h3>
+      <h3>Candide | Landing Page</h3>
       <a href="https://fanciful-hummingbird-900183.netlify.app" target="_blank">
         <img src="assets/candide-site.png" width="350px" alt="calculator live demo">
       </a>
