@@ -6,7 +6,7 @@
 
 <br>
 
-I am a Front-end Engineer at [Candide](https://www.linkedin.com/company/candidenft/about/) currently building an NFT rental marketplace using Nuxt3.
+I am a Front-end Engineer at [Candide](https://www.linkedin.com/company/candidenft/about/) currently building an NFT rental marketplace using Nuxt.
 
 - 🥁 I'm a professional drummer, educator, and author
 
@@ -53,22 +53,22 @@ I am a Front-end Engineer at [Candide](https://www.linkedin.com/company/candiden
 
 <table align="center">
   <tr align="center">
-    <td align="center">
-      <h3>Found Wisdom App</h3>
-      <a href="https://github.com/Spencer-Sch/found-wisdom-app" target="_blank">
-        <img src="assets/found-wisdom-thumbnail.png" width="350px" alt="calculator live demo">
-      </a>
-      <p style="font-size: 1.1rem">
-        <a href="https://github.com/Spencer-Sch/found-wisdom-app">Github Repo</a>
-      </p>
-    </td>
-    <td align="center">
-      <h3>Candide | Landing Page</h3>
+  <td align="center">
+      <h4>Candide | Landing Page</h4>
       <a href="https://fanciful-hummingbird-900183.netlify.app" target="_blank">
         <img src="assets/candide-site.png" width="350px" alt="calculator live demo">
       </a>
       <p style="font-size: 1.1rem">
         <a href="https://fanciful-hummingbird-900183.netlify.app">Live Site</a> | <a href="https://github.com/Spencer-Sch/candide-landing-page">Github Repo</a>
+      </p>
+    </td>
+    <td align="center">
+      <h4>Found Wisdom App</h4>
+      <a href="https://github.com/Spencer-Sch/found-wisdom-app" target="_blank">
+        <img src="assets/found-wisdom-thumbnail.png" width="350px" alt="calculator live demo">
+      </a>
+      <p style="font-size: 1.1rem">
+        <a href="https://github.com/Spencer-Sch/found-wisdom-app">Github Repo</a>
       </p>
     </td>
   </tr>
@@ -77,7 +77,7 @@ I am a Front-end Engineer at [Candide](https://www.linkedin.com/company/candiden
 <table align="center">
   <tr>
     <td align="center">
-      <h3>Calculator 2.0</h3>
+      <h4>Calculator 2.0</h4>
       <a href="https://calc-app-2.herokuapp.com/" target="_blank">
         <img src="assets/calc.jpg" width="350px" alt="calculator live demo">
       </a>
@@ -86,7 +86,7 @@ I am a Front-end Engineer at [Candide](https://www.linkedin.com/company/candiden
       </p>
     </td>
     <td align="center">
-      <h3>Budget Parse and Add</h3>
+      <h4>Budget Parse and Add</h4>
       <a href="https://budget-sum-app.herokuapp.com/" target="_blank">
         <img src="assets/budget.jpg" width="350px" alt="budget app live demo">
       </a>
