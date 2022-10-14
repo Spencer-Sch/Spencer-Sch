@@ -18,7 +18,7 @@ I am a Front-end Engineer at [Candide](https://www.linkedin.com/company/candiden
 
 [<img align="left" alt="spencer-sch | Discord" width="35px" src="https://s3-storage.textopus.nl/wp-content/uploads/2015/05/18050104/Discord-icon-270x270.png" />][discord]
 [<img align="left" alt="spencer-sch | LinkedIn" width="35px" src="https://algomine.pl/wp-content/uploads/LinkedIn-Icon-380x380.png" />][linkedin]
-[<img align="left" alt="spencer-sch | Gmail" width="40px" src="https://www.hostedincanada.com/wp-content/uploads/2019/04/143-1433268_gmail-icon-gmail-icon-png.png" />][gmail]
+[<img align="left" alt="spencer-sch | Gmail" height="35" src="https://www.hostedincanada.com/wp-content/uploads/2019/04/143-1433268_gmail-icon-gmail-icon-png.png" />][gmail]
 
 <br />
 <br>
@@ -64,7 +64,7 @@ I am a Front-end Engineer at [Candide](https://www.linkedin.com/company/candiden
         <img src="assets/candide-site.png" width="350px" alt="calculator live demo">
       </a>
       <p style="font-size: 1.1rem">
-        <a href="https://fanciful-hummingbird-900183.netlify.app">Live Site</a> | <a href="https://github.com/Spencer-Sch/candide-landing-page">Github Repo</a>
+        <a href="https://fanciful-hummingbird-900183.netlify.app">Live Demo</a> | <a href="https://github.com/Spencer-Sch/candide-landing-page">Github Repo</a>
       </p>
     </td>
     <td align="center">
