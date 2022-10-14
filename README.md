@@ -2,15 +2,17 @@
 
 <h1 align="center"> Hi, I'm Spencer </h1>
 
-<h3 align="center" style="border: 0">Developer, Musician, & Disc Golf Enthusiast</h3>
+<h3 align="center">I'm driven to excel at the intersection of creativity and technicality</h3>
 
 <br>
 
-I am a Front-end Engineer at [Candide](https://www.linkedin.com/company/candidenft/about/) currently building an NFT rental marketplace using Nuxt.
+- 💻 Front-end Engineer at [Candide](https://www.linkedin.com/company/candidenft/about/)
 
-- 🥁 I'm a professional drummer, educator, and author
+- 🚀 Currently building an NFT rental marketplace
 
-- ☕ I love brewing coffee
+- 🥁 Professional drummer, educator, and author
+
+- ☕ Love brewing coffee
 
 <br>
 
