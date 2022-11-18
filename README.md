@@ -85,20 +85,20 @@
   <tr>
     <td align="center">
       <h4>Calculator 2.0</h4>
-      <a href="https://calc-app-2.herokuapp.com/" target="_blank">
+      <a href="https://fantastic-salamander-71def7.netlify.app" target="_blank">
         <img src="assets/calc.jpg" width="350px" alt="calculator live demo">
       </a>
       <p style="font-size: 1.1rem">
-        <a href="https://calc-app-2.herokuapp.com/">Live Demo</a> | <a href="https://github.com/Spencer-Sch/Calculator_2.0">Github Repo</a>
+        <a href="https://fantastic-salamander-71def7.netlify.app">Live Demo</a> | <a href="https://github.com/Spencer-Sch/Calculator_2.0">Github Repo</a>
       </p>
     </td>
     <td align="center">
       <h4>Budget Parse and Add</h4>
-      <a href="https://budget-sum-app.herokuapp.com/" target="_blank">
+      <a href="https://cosmic-kitten-bb9550.netlify.app" target="_blank">
         <img src="assets/budget.jpg" width="350px" alt="budget app live demo">
       </a>
       <p style="font-size: 1.1rem">
-        <a href="https://budget-sum-app.herokuapp.com/">Live Demo</a> | <a href="https://github.com/Spencer-Sch/budget-parse-and-add-app">Github Repo</a>
+        <a href="https://cosmic-kitten-bb9550.netlify.app">Live Demo</a> | <a href="https://github.com/Spencer-Sch/budget-parse-and-add-app">Github Repo</a>
       </p>
     </td>
   </tr>
