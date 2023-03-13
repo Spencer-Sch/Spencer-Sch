@@ -6,20 +6,22 @@
 
 <br>
 
-- 💻 Front-end Engineer at [Candide](https://www.linkedin.com/company/candidenft/about/)
+- #### 💻 Front-end Engineer at [Candide](https://candide.site/)
 
-- 🚀 Currently building an NFT rental marketplace
+- #### 🚀 Currently building an NFT rental marketplace
 
-- 🥁 Professional drummer, educator, and author
+  - #### 🔥 now in [beta testing](https://crew3.xyz/c/candide/invite/nF9rv2FKO42BoB9m0I78l)
 
-- ☕ Love brewing coffee
+- #### 🥁 Professional [drummer, educator, and author](https://inthekeyofrhythm.com/)
+
+- #### ☕ Love brewing coffee 🥏 and playing disc golf
 
 <br>
 
 ### Let's chat!
 
 [<img align="left" alt="spencer-sch | Discord" width="35px" src="https://s3-storage.textopus.nl/wp-content/uploads/2015/05/18050104/Discord-icon-270x270.png" />][discord]
-[<img align="left" alt="spencer-sch | LinkedIn" width="35px" src="https://algomine.pl/wp-content/uploads/LinkedIn-Icon-380x380.png" />][linkedin]
+[<img align="left" alt="spencer-sch | LinkedIn" width="35px" src="https://camo.githubusercontent.com/9d66eeaa79b4f53e7ab2d6a0169bf220829f0bac4c21c57576a09371111a838d/68747470733a2f2f616c676f6d696e652e706c2f77702d636f6e74656e742f75706c6f6164732f4c696e6b6564496e2d49636f6e2d333830783338302e706e67" />][linkedin]
 [<img align="left" alt="spencer-sch | Gmail" height="35" src="https://www.hostedincanada.com/wp-content/uploads/2019/04/143-1433268_gmail-icon-gmail-icon-png.png" />][gmail]
 
 <br />
@@ -61,14 +63,29 @@
 <table align="center">
   <tr align="center">
   <td align="center">
+      <h4>Candide | Marketplace</h4>
+      <p style="font-weight: bold; font-size: 1.1rem">⚠️In Active Development⚠️</p>
+      <a href="https://marketplace.candide.site/" target="_blank">
+        <img src="assets/candide-marketplace.png" width="350px" alt="calculator live demo">
+      </a>
+      <p style="font-size: 1.1rem">
+        <a href="https://marketplace.candide.site/">Marketplace</a> | <a href="https://github.com/Spencer-Sch/candide-marketplace-info">Project Info</a>
+      </p>
+    </td>
+  <td align="center">
       <h4>Candide | Landing Page</h4>
-      <a href="https://fanciful-hummingbird-900183.netlify.app" target="_blank">
+      <a href="https://candide.site/" target="_blank">
         <img src="assets/candide-site.png" width="350px" alt="calculator live demo">
       </a>
       <p style="font-size: 1.1rem">
-        <a href="https://fanciful-hummingbird-900183.netlify.app">Live Demo</a> | <a href="https://github.com/Spencer-Sch/candide-landing-page">Github Repo</a>
+        <a href="https://candide.site/">Website</a> | <a href="https://github.com/Spencer-Sch/candide-production-landing-page">Project Info</a>
       </p>
     </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
     <td align="center">
       <h4>Found Wisdom App</h4>
       <a href="https://github.com/Spencer-Sch/found-wisdom-app" target="_blank">
@@ -78,11 +95,6 @@
         <a href="https://github.com/Spencer-Sch/found-wisdom-app">Github Repo</a>
       </p>
     </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
     <td align="center">
       <h4>Calculator 2.0</h4>
       <a href="https://fantastic-salamander-71def7.netlify.app" target="_blank">
@@ -92,6 +104,11 @@
         <a href="https://fantastic-salamander-71def7.netlify.app">Live Demo</a> | <a href="https://github.com/Spencer-Sch/Calculator_2.0">Github Repo</a>
       </p>
     </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
     <td align="center">
       <h4>Budget Parse and Add</h4>
       <a href="https://cosmic-kitten-bb9550.netlify.app" target="_blank">
