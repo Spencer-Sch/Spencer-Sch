@@ -10,7 +10,7 @@
 
 - #### 🚀 Currently building an NFT rental marketplace
 
-  - #### 🔥 now in [beta testing](https://crew3.xyz/c/candide/invite/nF9rv2FKO42BoB9m0I78l)
+  - #### 🔥 First round of [beta testing](https://crew3.xyz/c/candide/invite/nF9rv2FKO42BoB9m0I78l): complete
 
 - #### 🥁 Professional [drummer, educator, and author](https://inthekeyofrhythm.com/)
 
