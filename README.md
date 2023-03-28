@@ -21,7 +21,7 @@
 ### Let's chat!
 
 [<img align="left" alt="spencer-sch | Discord" width="35px" src="https://s3-storage.textopus.nl/wp-content/uploads/2015/05/18050104/Discord-icon-270x270.png" />][discord]
-[<img align="left" alt="spencer-sch | LinkedIn" width="35px" src="https://camo.githubusercontent.com/9d66eeaa79b4f53e7ab2d6a0169bf220829f0bac4c21c57576a09371111a838d/68747470733a2f2f616c676f6d696e652e706c2f77702d636f6e74656e742f75706c6f6164732f4c696e6b6564496e2d49636f6e2d333830783338302e706e67" />][linkedin]
+[<img align="left" alt="spencer-sch | LinkedIn" width="35px" src="https://icons.iconarchive.com/icons/danleech/simple/1024/linkedin-icon.png" />][linkedin]
 [<img align="left" alt="spencer-sch | Gmail" height="35" src="https://www.hostedincanada.com/wp-content/uploads/2019/04/143-1433268_gmail-icon-gmail-icon-png.png" />][gmail]
 
 <br />
