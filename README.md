@@ -22,9 +22,9 @@
 
 ### Let's chat!
 
-[<img align="left" alt="spencer-sch | Discord" width="35px" src="https://s3-storage.textopus.nl/wp-content/uploads/2015/05/18050104/Discord-icon-270x270.png" />][discord]
-[<img align="left" alt="spencer-sch | LinkedIn" width="35px" src="https://icons.iconarchive.com/icons/danleech/simple/1024/linkedin-icon.png" />][linkedin]
-[<img align="left" alt="spencer-sch | Gmail" height="35" src="https://www.hostedincanada.com/wp-content/uploads/2019/04/143-1433268_gmail-icon-gmail-icon-png.png" />][gmail]
+[<img align="left" alt="spencer-sch | Discord" width="35px" src="assets/discord.png" />][discord]
+[<img align="left" alt="spencer-sch | LinkedIn" width="35px" src="assets/linkedin.png" />][linkedin]
+[<img align="left" alt="spencer-sch | Gmail" height="35" src="assets/gmail.png" />][gmail]
 
 <br />
 <br>
