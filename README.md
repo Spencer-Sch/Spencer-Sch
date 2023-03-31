@@ -8,9 +8,11 @@
 
 - #### 💻 Front-end Engineer at [Candide](https://candide.site/)
 
-- #### 🚀 Currently building an NFT rental marketplace
+  - #### 🚀 Currently building an NFT rental marketplace
 
   - #### 🔥 First round of [beta testing](https://crew3.xyz/c/candide/invite/nF9rv2FKO42BoB9m0I78l): complete
+
+- #### 🌱 Learning: [full-stack web3](https://github.com/Spencer-Sch/blockchain-solidity-full-stack-web3-course)
 
 - #### 🥁 Professional [drummer, educator, and author](https://inthekeyofrhythm.com/)
 
@@ -30,30 +32,30 @@
 ### Languages and Tools
 
 <p align="left">
-<img align="left" alt="Visual Studio Code" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Neovim" width="35px" height="35px" src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" />
-<img align="left" alt="HTML5" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="38px" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Vue" width="38px" height="35px" src="https://www.giuseppemaccario.com/wp-content/uploads/2019/04/1200px-Vue.js_Logo_2.svg_-1024x887.png" />
-<img align="left" alt="Nuxt" width="38px" height="35px" src="https://iconape.com/wp-content/png_logo_vector/nuxt-logo.png" />
-<img align="left" alt="Tailwind" width="38px" height="35px" src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.4.1/1593003234577/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="Visual Studio Code" width="35px" height="35px" src="assets/vscode.png" />
+<img align="left" alt="Neovim" width="35px" height="35px" src="assets/nvim.png" />
+<img align="left" alt="HTML5" width="35px" height="35px" src="assets/html.png" />
+<img align="left" alt="CSS3" width="35px" height="35px" src="assets/css.png" />
+<img align="left" alt="JavaScript" width="35px" height="35px" src="assets/javascript.png" />
+<img align="left" alt="TypeScript" width="35px" height="35px" src="assets/typescript.png" />
+<img align="left" alt="React" width="38px" height="35px" src="assets/react.svg" />
+<img align="left" alt="Vue" width="38px" height="35px" src="assets/vue.png" />
+<img align="left" alt="Nuxt" width="38px" height="35px" src="assets/nuxt.png" />
+<img align="left" alt="Tailwind" width="38px" height="35px" src="assets/tailwind.Default" />
 </p>
 <br>
 <br>
 <br>
 <p align="left">
-<img align="left" alt="MUI" width="35px" height="35px" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" />
-<img align="left" alt="Ionic" width="35px" height="35px" src="https://github.com/ionic-team/ionic-framework/raw/main/.github/assets/logo.png?raw=true" />
-<img align="left" alt="Firebase" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Jest" width="31px" height="35px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" />
-<img align="left" alt="Testing Library" width="35px" height="35px" src="https://testing-library.com/img/octopus-128x128.png" />
-<img align="left" alt="Git" width="35px" height="35px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />
-<img align="left" alt="GitHub" width="35px" height="35px" src="https://github.githubassets.com/apple-touch-icon-180x180.png" />
-<img align="left" alt="Node" width="35px" height="35px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-<img align="left" alt="Express" width="41px" height="35px" src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" />
+<img align="left" alt="MUI" width="35px" height="35px" src="assets/mui.svg" />
+<img align="left" alt="Ionic" width="35px" height="35px" src="assets/ionic.png" />
+<img align="left" alt="Firebase" width="35px" height="35px" src="assets/firebase.png" />
+<img align="left" alt="Jest" width="31px" height="35px" src="assets/jest.png" />
+<img align="left" alt="Testing Library" width="35px" height="35px" src="assets/testing_library.png" />
+<img align="left" alt="Git" width="35px" height="35px" src="assets/git.svg" />
+<img align="left" alt="GitHub" width="35px" height="35px" src="assets/github.png" />
+<img align="left" alt="Node" width="35px" height="35px" src="assets/node.png" />
+<img align="left" alt="Express" width="41px" height="35px" src="assets/express.svg" />
 </p>
 <br />
 <br />
