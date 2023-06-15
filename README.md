@@ -22,9 +22,9 @@
 
 ### Let's chat!
 
-[<img align="left" alt="spencer-sch | Discord" width="35px" src="assets/discord.png" />][discord]
-[<img align="left" alt="spencer-sch | LinkedIn" width="35px" src="assets/linkedin.png" />][linkedin]
 [<img align="left" alt="spencer-sch | Gmail" height="35" src="assets/gmail.png" />][gmail]
+[<img align="left" alt="spencer-sch | LinkedIn" width="35px" src="assets/linkedin.png" />][linkedin]
+[<img align="left" alt="spencer-sch | Discord" width="35px" src="assets/discord.png" />][discord]
 
 <br />
 <br>
