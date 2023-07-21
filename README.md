@@ -10,9 +10,7 @@
 
   - #### 🚀 Currently building an NFT rental marketplace
 
-  - #### 🔥 First round of [beta testing](https://crew3.xyz/c/candide/invite/nF9rv2FKO42BoB9m0I78l): complete
-
-- #### 🌱 Learning: [full-stack web3](https://github.com/Spencer-Sch/blockchain-solidity-full-stack-web3-course)
+<!-- - #### 🌱 Learning: [full-stack web3](https://github.com/Spencer-Sch/blockchain-solidity-full-stack-web3-course) -->
 
 - #### 🥁 Professional [drummer, educator, and author](https://inthekeyofrhythm.com/)
 
