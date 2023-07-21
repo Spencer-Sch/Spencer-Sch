@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="assets/new-banner.png"></img>
+<img align="center" width="100%" src="assets/banner.png"></img>
 
 <h1 align="center"> Hi, I'm Spencer </h1>
 
@@ -6,7 +6,7 @@
 
 <br>
 
-- #### 💻 Front-end Engineer at [Candide](https://candide.site/)
+- #### 💻 Developer at [Candide](https://candide.site/)
 
   - #### 🚀 Currently building an NFT rental marketplace
 
@@ -32,30 +32,32 @@
 ### Languages and Tools
 
 <p align="left">
-<img align="left" alt="Visual Studio Code" width="35px" height="35px" src="assets/vscode.png" />
-<img align="left" alt="Neovim" width="35px" height="35px" src="assets/nvim.png" />
-<img align="left" alt="HTML5" width="35px" height="35px" src="assets/html.png" />
-<img align="left" alt="CSS3" width="35px" height="35px" src="assets/css.png" />
-<img align="left" alt="JavaScript" width="35px" height="35px" src="assets/javascript.png" />
-<img align="left" alt="TypeScript" width="35px" height="35px" src="assets/typescript.png" />
-<img align="left" alt="React" width="38px" height="35px" src="assets/react.svg" />
+<img align="left" alt="Solidity" width="35px" height="35px" src="assets/solidity.svg" />
+<img align="left" alt="Hardhat" width="35px" height="35px" src="assets/hardhat.svg" />
+<img align="left" alt="React" width="38px" height="35px" src="assets/react.png" />
 <img align="left" alt="Vue" width="38px" height="35px" src="assets/vue.png" />
 <img align="left" alt="Nuxt" width="38px" height="35px" src="assets/nuxt.png" />
 <img align="left" alt="Tailwind" width="38px" height="35px" src="assets/tailwind.Default" />
+<img align="left" alt="Jest" width="31px" height="35px" src="assets/jest.png" />
+<img align="left" alt="Testing Library" width="35px" height="35px" src="assets/testing_library.png" />
+<img align="left" alt="Git" width="35px" height="35px" src="assets/git.svg" />
+<img align="left" alt="GitHub" width="35px" height="35px" src="assets/github.png" />
 </p>
 <br>
 <br>
 <br>
 <p align="left">
+<img align="left" alt="JavaScript" width="35px" height="35px" src="assets/javascript.png" />
+<img align="left" alt="TypeScript" width="35px" height="35px" src="assets/typescript.png" />
 <img align="left" alt="MUI" width="35px" height="35px" src="assets/mui.svg" />
 <img align="left" alt="Ionic" width="35px" height="35px" src="assets/ionic.png" />
 <img align="left" alt="Firebase" width="35px" height="35px" src="assets/firebase.png" />
-<img align="left" alt="Jest" width="31px" height="35px" src="assets/jest.png" />
-<img align="left" alt="Testing Library" width="35px" height="35px" src="assets/testing_library.png" />
-<img align="left" alt="Git" width="35px" height="35px" src="assets/git.svg" />
-<img align="left" alt="GitHub" width="35px" height="35px" src="assets/github.png" />
 <img align="left" alt="Node" width="35px" height="35px" src="assets/node.png" />
 <img align="left" alt="Express" width="41px" height="35px" src="assets/express.svg" />
+<img align="left" alt="HTML5" width="35px" height="35px" src="assets/html.png" />
+<img align="left" alt="CSS3" width="35px" height="35px" src="assets/css.png" />
+<img align="left" alt="Visual Studio Code" width="35px" height="35px" src="assets/vscode.png" />
+<img align="left" alt="Neovim" width="35px" height="35px" src="assets/nvim.png" />
 </p>
 <br />
 <br />
@@ -67,7 +69,7 @@
   <tr align="center">
   <td align="center">
       <h4>Candide | Marketplace</h4>
-      <p style="font-weight: bold; font-size: 1.1rem">⚠️In Active Development⚠️</p>
+      <!-- <p style="font-weight: bold; font-size: 1.1rem">⚠️In Active Development⚠️</p> -->
       <a href="https://marketplace.candide.site/" target="_blank">
         <img src="assets/candide-marketplace.png" width="350px" alt="calculator live demo">
       </a>
