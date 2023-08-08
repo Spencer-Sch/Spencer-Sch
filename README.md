@@ -36,6 +36,8 @@
 <img align="left" alt="Vue" width="38px" height="35px" src="assets/vue.png" />
 <img align="left" alt="Nuxt" width="38px" height="35px" src="assets/nuxt.png" />
 <img align="left" alt="Tailwind" width="38px" height="35px" src="assets/tailwind.Default" />
+<img align="left" alt="Mocha" width="38px" height="35px" src="assets/mocha.svg" />
+<img align="left" alt="Chai" width="38px" height="35px" src="assets/chai.png" />
 <img align="left" alt="Jest" width="31px" height="35px" src="assets/jest.png" />
 <img align="left" alt="Testing Library" width="35px" height="35px" src="assets/testing_library.png" />
 <img align="left" alt="Git" width="35px" height="35px" src="assets/git.svg" />
@@ -47,6 +49,7 @@
 <p align="left">
 <img align="left" alt="JavaScript" width="35px" height="35px" src="assets/javascript.png" />
 <img align="left" alt="TypeScript" width="35px" height="35px" src="assets/typescript.png" />
+<img align="left" alt="IPFS" width="35px" height="35px" src="assets/ipfs.png" />
 <img align="left" alt="MUI" width="35px" height="35px" src="assets/mui.svg" />
 <img align="left" alt="Ionic" width="35px" height="35px" src="assets/ionic.png" />
 <img align="left" alt="Firebase" width="35px" height="35px" src="assets/firebase.png" />
