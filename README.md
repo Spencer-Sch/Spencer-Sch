@@ -137,19 +137,19 @@
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h4>Budget Parse and Add</h4>
-      <a href="https://cosmic-kitten-bb9550.netlify.app" target="_blank">
-        <img src="assets/budget.jpg" width="350px" alt="budget app live demo">
-      </a>
-      <p style="font-size: 1.1rem">
-        <a href="https://cosmic-kitten-bb9550.netlify.app">Live Demo</a> | <a href="https://github.com/Spencer-Sch/budget-parse-and-add-app">Github Repo</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- <table align="center"> -->
+<!--   <tr> -->
+<!--     <td align="center"> -->
+<!--       <h4>Budget Parse and Add</h4> -->
+<!--       <a href="https://cosmic-kitten-bb9550.netlify.app" target="_blank"> -->
+<!--         <img src="assets/budget.jpg" width="350px" alt="budget app live demo"> -->
+<!--       </a> -->
+<!--       <p style="font-size: 1.1rem"> -->
+<!--         <a href="https://cosmic-kitten-bb9550.netlify.app">Live Demo</a> | <a href="https://github.com/Spencer-Sch/budget-parse-and-add-app">Github Repo</a> -->
+<!--       </p> -->
+<!--     </td> -->
+<!--   </tr> -->
+<!-- </table> -->
 
 [linkedin]: https://www.linkedin.com/in/spencer-schoeneman-b621908b/
 [gmail]: mailto:spencer.schoeneman@gmail.com
