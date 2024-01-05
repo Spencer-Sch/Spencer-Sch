@@ -70,6 +70,29 @@
 <table align="center">
   <tr align="center">
   <td align="center">
+      <h4>Honey Badger HR | CCIP Payroll</h4>
+      <!-- <a href="https://marketplace.candide.site/" target="_blank"> -->
+        <img src="assets/honey-badger-hr.png" width="350px" alt="honey badger hr">
+      <!-- </a> -->
+      <p style="font-size: 1.1rem">
+        <a href="https://github.com/Spencer-Sch/CCIP-Payroll">Github Repo</a>
+      </p>
+    </td>
+  <td align="center">
+      <h4>Encode Battles | NFT Game</h4>
+      <!-- <a href="https://candide.site/" target="_blank"> -->
+        <img src="assets/encode-battles-thumbnail.png" width="350px" alt="encode battles">
+      <!-- </a> -->
+      <p style="font-size: 1.1rem">
+        <a href="https://github.com/Spencer-Sch/Encode_Solidity_Bootcamp_Group_5_Final_Project">Github Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr align="center">
+  <td align="center">
       <h4>Candide | Marketplace</h4>
       <!-- <p style="font-weight: bold; font-size: 1.1rem">⚠️In Active Development⚠️</p> -->
       <a href="https://marketplace.candide.site/" target="_blank">
