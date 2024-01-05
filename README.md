@@ -6,11 +6,12 @@
 
 <br>
 
-- #### 💻 Developer at [Candide](https://candide.site/)
+- #### 💻 Developer at [Candide](https://candide.site/) 🚀 building an NFT rental marketplace
+- #### 💻 Developer at Honey Badger HR 🚀 building CCIP powered payroll
 
-  - #### 🚀 Currently building an NFT rental marketplace
-
-<!-- - #### 🌱 Learning: [full-stack web3](https://github.com/Spencer-Sch/blockchain-solidity-full-stack-web3-course) -->
+<!-- - #### 💻 Developer at [Candide](https://candide.site/) -->
+<!---->
+<!--   - #### 🚀 Currently building an NFT rental marketplace -->
 
 - #### 🥁 Professional [drummer, educator, and author](https://inthekeyofrhythm.com/)
 
