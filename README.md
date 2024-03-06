@@ -6,12 +6,9 @@
 
 <br>
 
-- #### 💻 Developer at [Candide](https://candide.site/) 🚀 building an NFT rental marketplace
-- #### 💻 Developer at [Honey Badger HR](https://github.com/Spencer-Sch/CCIP-Payroll) 🚀 building CCIP powered payroll
+- #### 💻 Developer at [Nebulai](https://nebulai.com/) 🚀 building an AI-assisted talent platform
 
-<!-- - #### 💻 Developer at [Candide](https://candide.site/) -->
-<!---->
-<!--   - #### 🚀 Currently building an NFT rental marketplace -->
+- #### 💻 Developer at [Candide](https://candide.site/) 🚀 building an NFT rental marketplace
 
 - #### 🥁 Professional [drummer, educator, and author](https://inthekeyofrhythm.com/)
 
