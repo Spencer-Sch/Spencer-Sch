@@ -6,7 +6,7 @@
 
 <br>
 
-- #### 💻 Developer at [Nebulai](https://nebulai.com/) 🚀 building an AI-assisted talent platform
+- #### 💻 Developer at [Nebulai](https://github.com/nebulaidigital) 🚀 building an AI-assisted talent platform
 
 - #### 💻 Developer at [Candide](https://candide.site/) 🚀 building an NFT rental marketplace
 
