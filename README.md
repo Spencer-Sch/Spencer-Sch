@@ -70,7 +70,7 @@
   <tr align="center">
   <td align="center">
       <h4>Nebulai</h4>
-      <a href="https://github.com/Spencer-Sch/Encode_Solidity_Bootcamp_Group_5_Final_Project" target="_blank">
+      <a href="https://github.com/nebulaidigital" target="_blank">
         <img src="assets/nebulai.png" width="350px" alt="Nebulai logo">
       </a>
       <p style="font-size: 1.1rem">
