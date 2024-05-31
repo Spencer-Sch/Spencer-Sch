@@ -10,6 +10,8 @@
 
 - #### 💻 Developer at [Candide](https://candide.site/) 🚀 building an NFT rental marketplace
 
+- #### 🎙️ Co-host of [Upskill & Chill](https://www.youtube.com/channel/UCxJpFwg2EAV4X52Vox1E2Sg) 📺 weekly live stream
+
 - #### 🥁 Professional [drummer, educator, and author](https://inthekeyofrhythm.com/)
 
 - #### ☕ Love brewing coffee 🥏 and playing disc golf
