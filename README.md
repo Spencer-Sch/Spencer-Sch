@@ -6,7 +6,9 @@
 
 <br>
 
-- #### 💻 Developer at [Nebulai](https://github.com/nebulaidigital) 🚀 building an AI-assisted talent platform
+- #### 💻 Software Engineer / Team Lead at [Nebulai](https://github.com/nebulaidigital) 🚀 building an Intelligent Solutions and Talent Marketplace
+
+- #### 💻 Founding Full Stack Engineer for a super secret blockchain startup...🤫
 
 - #### 🎙️ Co-host of [Upskill & Chill](https://www.youtube.com/channel/UCxJpFwg2EAV4X52Vox1E2Sg) 📺 weekly live stream
 
